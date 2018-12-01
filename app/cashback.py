@@ -7,6 +7,4 @@ def cashback(amount):
     return result
 
 
-def test_cashback_above_limit():
-    result = cashback(1_000_000)
-    assert 3_000 == result
+
