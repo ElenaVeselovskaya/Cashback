@@ -4,4 +4,4 @@
 
 [![codecov](https://codecov.io/gh/ElenaVeselovskaya/Cashback/branch/master/graph/badge.svg)](https://codecov.io/gh/ElenaVeselovskaya/Cashback)
 
-#90%
+#  90%
